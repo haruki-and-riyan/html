@@ -9,3 +9,10 @@ h1{
   font-size: 20px;
   font-weight: 300;
 }
+
+.main p {
+  color: orange;
+  font-size: 30px;
+  font-family: Times New Roman;
+  
+}
