@@ -23,14 +23,14 @@ h1{
   
 }
 
-.main a: link,
-.main a: visited{
+ a: link,
+ a: visited{
   color: red;
   font-size: 15px;
 }
 
-.main a: hover,
-.main a: active{
+ a: hover,
+ a: active{
   color: orange;
   transition: color 0.3s:
 }
